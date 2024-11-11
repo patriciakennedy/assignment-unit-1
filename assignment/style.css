@@ -1,13 +1,82 @@
 /* Add a background color to the header element */
+header {
+    background-color: #803bb1;
+    color: #ffffff;
+    margin-top: -20px;
+    
+}
+
 
 /* Add a fun background color to the main element */
+main {
+    background-color: #2d283e;
+    margin-top: -25px;
+    margin-bottom: -25px;
+    
+}
+
+
+
+
 
 /* Align the h1 containing your name in the center of the header*/
+h1 {
+    text-align: center;
+    padding: 10px 10px;
+    
+}
 
 /* Make your p tag a different color and italic */
+footer p {
+    color: #d1d7e0;
+    padding: 15px 15px;
+    background-color: #803BB1;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+
 
 /* Put a border around your image */
+img {
+    width: 300px;
+    border: 3px solid #d1d7e0;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+
+/* Pat comment: code for H3 added in HTML*/
+h3 {
+    color:#ffffff;
+    margin-left: 25px;
+    margin-top: 40px;
+}
 
 /* Change the font-family of your list */
+main ul li {
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    
+}
+
+main ul {
+    list-style: none;
+    margin-left: -25px;
+    margin-top: 18px;
+    padding-bottom: 125px;
+}
+
+
+
 
 /* Add a background color to the footer element */
+footer {
+    background-color: #803bb1;
+       
+}
+
+
+
+
+
